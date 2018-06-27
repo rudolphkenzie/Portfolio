@@ -1,0 +1,228 @@
+
+
+
+.picture { 
+    /* position: absolute;  */
+    /* margin-top: 3%;   */
+    /* right: 10%;  */
+    border: 5px solid black;
+     
+}
+
+.pic{
+    height: 425px;
+}
+
+.col-4{
+    height: 500px; 
+}
+
+.border {
+height: 800px; 
+width: 450px; 
+margin-left: 70%; 
+position: absolute; 
+margin-top: 3%; 
+right: 40%; 
+color: rgb(0, 0, 0); 
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto; 
+  width: 500px; 
+}
+
+.title {
+    color: white; 
+    font-size: 70px;
+    margin-left: 35%; 
+    margin-top: 0%; 
+    font-family: 'Lobster', cursive;
+
+}
+
+
+
+.port{
+    color:white; 
+    margin-top: 1%; 
+}
+
+
+
+
+.navBar{
+    width: 100%;
+    float: center;
+    margin: 0em 0 0 0;
+    padding: 0.35em;
+    background:url(wood.jpg) center 110px;
+    height: 150px;
+    padding: 0 0.25em 0 0.2em;
+    vertical-align: middle; 
+    
+}
+
+nav {
+    color:grey;
+    font-size: 2em;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin-top: -82px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right; 
+}
+nav li {
+    display: inline-block;
+    margin: 0; 
+}
+nav li a, nav li a:visited {
+    text-decoration: none;
+    color: white;
+    padding: 2em 0.6em;
+    height: 300px; 
+   
+}
+nav li a:hover {
+    color: purple;
+    background-color:black;
+    
+}
+
+/* .footer{
+    background:url(wood.jpg) center;
+    height: 110px; 
+    width: 100%; 
+    position:absolute; 
+    bottom: -1400px; 
+    color: white;  */
+
+
+/* .info{
+    position: absolute;
+    margin-top: 200px;
+    height: 400px;
+    width: 100%; 
+
+} */
+
+
+
+
+
+
+/* #infoLeft{
+    float: left;
+    position: absolute;
+    width: 610px;
+    height: 200px; 
+    margin: -6.5em 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: rgba(53, 2, 53, 0.623);
+    border-radius: 2em;
+    color: white
+   }
+
+   #infoRight {
+    float: right;
+    position: absolute;
+    width: 610px;
+    height: 200px; 
+    margin: 12em 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: rgba(0, 0, 0, 0.74);
+  
+    border-radius: 2em;
+    color: white
+    
+    
+   } */
+
+   p{
+       font-size: 18pt; 
+       color: white; 
+   }
+
+
+    .projectFiles{
+       width: 50%; 
+       position: absolute; 
+       float: center; 
+       margin-top: 52%; 
+       color: white; 
+       font-size: 20pt; 
+       margin-left: 5%;  
+   }
+
+   a{
+       text-decoration: none !important; 
+       color: white !important; 
+       font-size: 14pt !important; 
+   }
+   
+   .colorLinks{
+       color: white; 
+   }
+   .colorBlack{
+       color: black; 
+   }
+
+   .whitetext{
+       color: white; 
+       text-align: center;
+       font-size: 28pt; 
+   }
+
+   .list{
+       font-size: 20pt; 
+       color: white; 
+   }
+   .whitetext2{
+       color: white; 
+       text-align: center;
+   }
+
+
+body{
+    background: #43C6AC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background:url(backgroundgreen.jpg); */
+}
+.row {
+    width: 100%;
+    margin-top: 10%; 
+}
+
+.container{
+    margin-top: 7%; 
+}
+
+/* .projectFiles{
+    margin-top: 6%;  */
+
+#contact{
+    margin-top: 5%; 
+    
+}
+.picture{
+    width: 300px; 
+    height: 265px; 
+}
+
+.projectTitle{
+    color: white; 
+    margin-left: 40%; 
+}
+
+h2 {
+    color: white !important;
+}
+li a {
+    font-size: .8em !important;
+}
